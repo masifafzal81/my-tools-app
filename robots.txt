@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://abctools.netlify.app/sitemap.xml
+
+# Block admin/unused paths if added later
+# Disallow: /admin/
