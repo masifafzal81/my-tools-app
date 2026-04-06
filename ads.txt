@@ -1,0 +1,4 @@
+# Google AdSense
+# Replace with your actual AdSense Publisher ID
+# Example: google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# Add more ad networks here as needed
